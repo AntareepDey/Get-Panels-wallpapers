@@ -97,7 +97,7 @@ def main():
         return
 
     # Output folder for the downloaded images
-    output_folder = 'wallpapers_test'
+    output_folder = 'wallpapers'
 
     # Download images from the extracted links
     download_images(wall_links, output_folder)
